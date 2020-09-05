@@ -1,4 +1,3 @@
-# web
 <html>
   <head>
     <title>My University</title>
