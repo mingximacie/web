@@ -6,11 +6,9 @@
     <div>
       <h1>My IIT</h1>
       <p>
-        <b><em>Illinois institute of techology</em></b>
-          
+        <b><em>Illinois institute of techology</em></b>   
       </p>
     </div>
-    
     <div>
       <ul>
         <li>IIT's introduction</li>
@@ -22,7 +20,6 @@
         </li>
       </ul>
     </div>
-    
     <div>
       <h3><b>Why I love IIT</b></h3>
       <ol>
@@ -49,7 +46,6 @@
           </table>
         </li>
       </ol>
-       
     </div>
   </body>
 </html>
